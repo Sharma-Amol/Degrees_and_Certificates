@@ -5,7 +5,7 @@
 2. M.Tech Structural Dynamics and Earthquake Engineering (2016 | Visvesvaraya National Institute of Technology)
 
 ## Certificates
-1. Python (July 2022 | Jose Portilla | Udemy)
+1. [Python] (https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/2269c69fccaf1357078abb3d2372c7350f338de0/2022%20Complete%20Python%20Bootcamp%20Python.pdf) (July 2022 | Jose Portilla | Udemy)
 2. SQL (July 2022 | Jose Portilla | Udemy)
 3. Maths, Statistics and Probability (Nov 2022 | Jose Portilla | Udemy)
 4. Tableau (Nov 2022 | Kirill Eremenko, Ligency Team | Udemy)
