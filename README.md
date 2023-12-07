@@ -3,6 +3,7 @@
 ## Degrees
 1. B.E Civil Engineering (2014 |Jabalpur Engineering College)
 2. M.Tech Structural Dynamics and Earthquake Engineering (2016 | Visvesvaraya National Institute of Technology)
+3. eMasters Quantitative Finance and Risk Management (July 2024 | Indian Institute of Technology Kanpur)
 
 ## Certificates
 1. [Python](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/2269c69fccaf1357078abb3d2372c7350f338de0/2022%20Complete%20Python%20Bootcamp%20Python.pdf) (July 2022 | Jose Portilla | Udemy)
