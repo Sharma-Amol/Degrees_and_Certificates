@@ -14,7 +14,7 @@
 3. [NISM Series IV - Interest Rate Derivatives](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Interest%20Rate%20Derivatives.pdf) (July 2024 | National Institute of Securities Markets)
 4. [NISM Series I - Currency Derivatives](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Currency%20Derivatives.pdf) (July 2024 | National Institute of Securities Markets)
 5. [NISM Series VII - Securities Operation & Risk Management](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Securities%20Operation%20%26%20Risk%20Management.pdf) (July 2024 | National Institute of Securities Markets)
-6. NSE NCFM Derivatives (Advanced) Module (April 2023 | National Institute of Securities Markets)
+6. [NSE NCFM Derivatives (Advanced) Module](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/NCFM%20Derivatives%20(Advanced).pdf) (May 2024 | Outdated Curriculum)
 7. [Python](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/2269c69fccaf1357078abb3d2372c7350f338de0/2022%20Complete%20Python%20Bootcamp%20Python.pdf) (July 2022 | Jose Portilla | Udemy)
 8. [SQL](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/efdd70539e0f3f7d69dd61a6ae06ce2465cd6ad0/The%20Complete%20SQL%20Bootcamp%202022.pdf) (July 2022 | Jose Portilla | Udemy)
 9. [Statistics and Probability](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/efdd70539e0f3f7d69dd61a6ae06ce2465cd6ad0/Probability%20and%20Statistics%20for%20Business%20and%20Data%20Science.pdf) (Nov 2022 | Jose Portilla | Udemy)
