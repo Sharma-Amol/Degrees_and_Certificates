@@ -1,7 +1,7 @@
 # Degrees_and_Certificates
 
 ## Resume
-[PDF](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Master%20Resume%20Amol%20Sharma.pdf)
+[PDF](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Resume%20%20Jan%202025.pdf))
 
 ## Degrees
 1. B.E Civil Engineering (2014 |Jabalpur Engineering College)
