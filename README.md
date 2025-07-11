@@ -1,12 +1,9 @@
 # Degrees_and_Certificates
 
-## Resume
-[PDF](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Amol_Sharma_Quant_Resume.pdf)
-
 ## Degrees
-1. B.E Civil Engineering (2014 |Jabalpur Engineering College)
-2. M.Tech Structural Dynamics and Earthquake Engineering (2016 | Visvesvaraya National Institute of Technology)
-3. eMasters Quantitative Finance and Risk Management (July 2024 | Indian Institute of Technology Kanpur)
+1. B.E Civil Engineering (Jabalpur Engineering College)
+2. M.Tech Structural Dynamics and Earthquake Engineering (Visvesvaraya National Institute of Technology)
+3. eMasters Quantitative Finance and Risk Management (Indian Institute of Technology Kanpur)
 
 ## Certificates
 1. [NISM Series XII - Securities Market Foundation](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/efdd70539e0f3f7d69dd61a6ae06ce2465cd6ad0/Securities%20Market.pdf) (April 2023 | National Institute of Securities Markets)
